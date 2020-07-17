@@ -5,8 +5,27 @@
 body {
   background: linear-gradient(to right, #e96443, #904e95) fixed;
 }
+.center {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  line-spacing: 5px;
+  font-size: 40px;
+  letter-spacing: 5px;
+  position: relative;
+  animation-name: anim;
+  animation-duration: 1s;
+}
+
+@keyframes anim {
+  0%   {letter-spacing: 20px;}
+  100% {letter-spacing: 5px;}
+}
 </style>
 </head>
 <body>
+<div class="center">
+  <p><b>FRUTGAMES</b></p>
+</div>
 </body>
 </html>
