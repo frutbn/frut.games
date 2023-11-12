@@ -80,6 +80,7 @@ To run analytics and understand how users interact with our product and services
 
 The third-party partners that **bdgames** will share the data with are:
 * *Facebook Analytics*
+* *Unity*
 * *ironSource*
 
 ### DATA DELETION REQUESTS
@@ -92,6 +93,9 @@ If you also want to request the deletion of the data that may have been collecte
 * Facebook Analytics:
 email: none, please refer to the privacy policy
 privacy policy: *https://www.facebook.com/about/privacy*
+* Unity
+email: *DPO@unity3d.com*
+privacy policy: https://unity.com/legal/game-player-and-app-user-privacy-policy
 * ironSource:
 email: *ironsource_privacy@unity3d.com*
 privacy policy: *https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/*

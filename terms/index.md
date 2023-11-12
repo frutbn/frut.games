@@ -28,8 +28,7 @@ At some point, we may wish to update the app. The app is currently available on 
 ## CHANGES TO THIS TERMS AND CONDITIONS
 ---
 
-We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
-These changes are effective immediately after they are posted on this page.
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
 
 ## CONTACT US
 ---
