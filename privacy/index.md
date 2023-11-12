@@ -22,6 +22,7 @@ Link to the privacy policy of third party service providers used by the app:
 * *https://www.facebook.com/about/privacy*
 * *https://policies.google.com/privacy*
 * *https://unity.com/legal/game-player-and-app-user-privacy-policy*
+* *https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/*
 
 ## LOG DATA
 ---
@@ -78,7 +79,8 @@ To provide you with the services you asked for
 To run analytics and understand how users interact with our product and services in order to continuously improve it
 
 The third-party partners that **bdgames** will share the data with are:
-* Facebook Analytics
+* *Facebook Analytics*
+* *ironSource*
 
 ### DATA DELETION REQUESTS
 ---
@@ -90,7 +92,11 @@ If you also want to request the deletion of the data that may have been collecte
 * Facebook Analytics:
 email: none, please refer to the privacy policy
 privacy policy: *https://www.facebook.com/about/privacy*
+* ironSource:
+email: *ironsource_privacy@unity3d.com*
+privacy policy: *https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/*
 
 ### CONTACT US
 ---
+
 If you have any questions or suggestions about our Privacy Policy, contact us at *frutbn@gmail.com*
