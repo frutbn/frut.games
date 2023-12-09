@@ -2,6 +2,12 @@ google.com, pub-8663732293892203, DIRECT, f08c47fec0942fa0
 ironsrc.com, 306127, DIRECT
 
 
+# Facebook
+
+facebook.com, 7154147044604729, RESELLER, c3e20eee3f780d68
+facebook.com, 1059264728751170, RESELLER, c3e20eee3f780d68
+
+
 # Unity
 
 152media.info, 152M324, RESELLER
